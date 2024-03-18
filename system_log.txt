@@ -1,2 +1,6 @@
 2024-03-18 14:00:43 - CPU: 3.4%, Memory: 28.1%, Disk:76.1%, Processes: 262
 2024-03-18 14:03:23 - CPU: 3.6%, Memory: 28.3%, Disk:76.1%, Processes: 266
+2024-03-18 14:29:37 - CPU: 43.8%, Memory: 29.8%, Disk: 76.2%, Processes: 283
+2024-03-18 14:49:32 - CPU: 3.5%, Memory: 29.8%, Disk: 76.2%, Processes: 275
+2024-03-18 14:49:32 - Top CPU Processes: [(1, 'systemd', 0.0), (2, 'kthreadd', 0.0), (3, 'rcu_gp', 0.0), (4, 'rcu_par_gp', 0.0), (5, 'slub_flushwq', 0.0)]
+2024-03-18 14:49:32 - Top Memory Processes: [(6329, 'java', 18.853847187771112), (1019, 'mysqld', 2.4265203631520427), (2443, 'gnome-shell', 1.6921761018585273), (5110, 'chrome', 1.5679077212575911), (4925, 'chrome', 1.4823006146213906)]
